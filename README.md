@@ -32,7 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/NischalJoshi19/Projects/base-apparel-coming-soon-master](https://github.com/NischalJoshi19/Base-Apparel-Coming-Soon-Page-Solution/)
+- Solution URL: [https://github.com/NischalJoshi19/base-apparel-coming-soon-master](https://github.com/NischalJoshi19/Base-Apparel-Coming-Soon-Page-Solution/)
+- Live Site URL: [https://base-apparel-coming-soon-page-solution-beta.vercel.app/](https://base-apparel-coming-soon-page-solution-beta.vercel.app/)
 
 ## My process
 
