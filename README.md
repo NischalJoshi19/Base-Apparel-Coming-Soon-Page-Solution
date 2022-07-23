@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/NischalJoshi19/Projects/base-apparel-coming-soon-master](https://github.com/NischalJoshi19/Base-Apparel-Coming-Soon-Page-Solution/blob/main/README.md)
+- Solution URL: [https://github.com/NischalJoshi19/Projects/base-apparel-coming-soon-master](https://github.com/NischalJoshi19/Base-Apparel-Coming-Soon-Page-Solution/)
 
 ## My process
 
