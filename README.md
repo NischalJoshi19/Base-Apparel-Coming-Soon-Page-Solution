@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://https://github.com/NischalJoshi19/Projects/base-apparel-coming-soon-master)
+- Solution URL: ([https://github.com/NischalJoshi19/Projects/base-apparel-coming-soon-master](https://github.com/NischalJoshi19/Projects/tree/main/base-apparel-coming-soon-master))
 
 ## My process
 
@@ -56,4 +56,3 @@ I have been working with html and css for some time now but I am relatively new 
 ## Author
 
 - Frontend Mentor - [@NischalJoshi19](https://www.frontendmentor.io/profile/NischalJoshi19)
-
